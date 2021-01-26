@@ -1,2 +1,3 @@
-# cu-comp478-lab
-Lab materials for Winter 2021 COMP478 Image Processing course.
+# COMP478 Lab Materials
+
+Lab materials for Winter 2021 COMP478 Image Processing Course.
